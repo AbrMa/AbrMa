@@ -2,8 +2,6 @@
 
 Software Engineer at Google
 
-![noogler hat](https://github.com/user-attachments/assets/c18d0d3e-afb7-4cc3-a29f-051b6b60c06c)
-
 ## About me
 
 - Worked at Oracle doing frontend development with JavaScript
@@ -14,3 +12,5 @@ Software Engineer at Google
 ## Contact info
 
 [linkedin.com/in/abraham-mmz](https://www.linkedin.com/in/abraham-mmz/)
+
+![noogler hat](https://github.com/user-attachments/assets/c18d0d3e-afb7-4cc3-a29f-051b6b60c06c)
